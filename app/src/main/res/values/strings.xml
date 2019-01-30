@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Epicture</string>
+    <string name="title_home">Most Viral</string>
+    <string name="title_account">My Images</string>
+    <string name="title_upload">Upload</string>
+    <string name="title_favorite">Favorites</string>
+    <string name="title_search">Search</string>
+    <string name="title_activity_navigation">Epicture</string>
+    <string name="logout">Log Out</string>
+    <string name="help">Help</string>
+
+</resources>
